@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Armando Stein 🖐️
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev.astein/)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCLeE_m5GJMV9TSIZ8JoIE8Q)
 
 
 ##
